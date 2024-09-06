@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgi-bin
+Sitemap: https://soloflare-com.github.io/sitemap.xml
+
